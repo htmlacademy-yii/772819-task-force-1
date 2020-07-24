@@ -1,7 +1,7 @@
 # Личный проект «TaskForce»
 
 * Студент: [Фёдор Пестунов](https://up.htmlacademy.ru/yii/1/user/772819).
-* Наставник: `Неизвестно`.
+* Наставник: [Кирилл Сенкевич](https://htmlacademy.ru/profile/id295429).
 
 ---
 
